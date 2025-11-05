@@ -13,4 +13,4 @@ Proyek ini merupakan bagian dari bootcamp Indonesia AI untuk Natural Language Pr
 4. Model Training & Evaluation
 5. Reporting
 ## 📋Link Presentasi
-[Presentasi Proyek Sentimen Analisis](https://drive.google.com/file/d/1lp3NxLIcZaXg9_tvtSot-OaXNcdpfuLh/view?usp=sharing)
+[Presentasi Proyek Text Summarization](https://drive.google.com/file/d/1W_XGHixV7W3SXr7gaMLb0pcGPQGOG-VK/view?usp=sharing)
